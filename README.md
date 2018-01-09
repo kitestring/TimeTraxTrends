@@ -7,6 +7,9 @@ This is a functional beta version.  The GUI is currently command line based.  Ho
 This next version will include a more user frendly GUI.
 
 See the folloiwng images for examples of the output data visualizations:
-![AllEmployees_PTO-Sick-DrAptsHours.png](/OutputExamples/AllEmployees_PTO-Sick-DrAptsHours.png)
-1. AllEmployees_SoftwareSupportHours.png
-1. KennethKite_ValidaltionHours.png
+
+![AllEmployees_PTO-Sick-DrAptsHours.png](/OutputFiles/AllEmployees_PTO-Sick-DrAptsHours.png)
+
+![AllEmployees_SoftwareSupportHours.png](/OutputFiles/AllEmployees_SoftwareSupportHours.png)
+
+![KennethKite_ValidaltionHours.png](/OutputFiles/KennethKite_ValidaltionHours.png)
