@@ -7,6 +7,7 @@ This is a functional beta version.  The GUI is currently command line based.  Ho
 This next version will include a more user frendly GUI.
 
 See the folloiwng images for examples of the output data visualizations:
+__(To maintain confidentiality the data examples shown are not “real” and are simulated data sets.)__
 
 ![AllEmployees_PTO-Sick-DrAptsHours.png](/OutputFiles/AllEmployees_PTO-Sick-DrAptsHours.png)
 
